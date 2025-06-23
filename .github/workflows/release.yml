@@ -22,6 +22,6 @@ jobs:
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: releases/ttt_event-latest.zip
-        asset_name: ttt-$tag.zip
+        asset_name: ttt_event-$tag.zip
         tag: ${{ github.ref }}
         overwrite: true
