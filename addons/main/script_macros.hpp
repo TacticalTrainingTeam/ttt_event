@@ -115,3 +115,5 @@
 #define TYPE_VEST 701
 #define TYPE_UNIFORM 801
 #define TYPE_BACKPACK 901
+
+#include "script_debug.hpp"

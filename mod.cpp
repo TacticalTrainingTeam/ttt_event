@@ -1,4 +1,4 @@
-author = "DartRuffian";
+author = "Tactical Training Team";
 name = "TTT_Event";
 description = "TTT_Event - Version 0.0.0";
 overview = "";

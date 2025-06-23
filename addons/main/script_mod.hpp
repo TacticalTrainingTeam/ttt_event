@@ -1,7 +1,7 @@
 #define MAINPREFIX z
 #define PREFIX ttt_event
 #define MOD_NAME TTT_Event
-#define AUTHOR "DartRuffian"
+#define AUTHOR "Tactical Training Team"
 
 #define REQUIRED_VERSION 2.20
 #define REQUIRED_CBA_VERSION {3,18,1}
