@@ -4,5 +4,13 @@
         <Key ID="STR_ttt_event_spotlight_displayName">
             <English>Spotlight</English>
         </Key>
+        <Key ID="STR_ttt_event_spotlight_Event_joinHover">
+            <English>Join server: Tactical Training Team - EVENT</English>
+            <German>Server beitreten: Tactical Training Team - EVENT</German>
+        </Key>
+        <Key ID="STR_ttt_event_spotlight_Event_text">
+            <English>Tactical Training Team - Event Server</English>
+            <German>Tactical Training Team - Event Server</German>
+        </Key>
     </Package>
 </Project>
