@@ -8,7 +8,7 @@ class CfgPatches {
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "ttt_event_main"
+            "ttt_event_common"
         };
         units[] = {};
         weapons[] = {};
