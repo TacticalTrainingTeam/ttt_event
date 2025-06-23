@@ -1,9 +1,9 @@
 #define MAINPREFIX z
-#define PREFIX MOD_PREFIX
-#define MOD_NAME MOD_TITLE
+#define PREFIX ttt_event
+#define MOD_NAME TTT_Event
 #define AUTHOR "DartRuffian"
 
-#define REQUIRED_VERSION 2.18
+#define REQUIRED_VERSION 2.20
 #define REQUIRED_CBA_VERSION {3,18,1}
 
 #include "script_version.hpp"

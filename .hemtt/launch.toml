@@ -8,9 +8,3 @@ presets = []
 dlc = []
 optionals = []
 parameters = []
-
-[ace]
-extends = "default"
-workshop = [
-    "463939057", # ACE
-]

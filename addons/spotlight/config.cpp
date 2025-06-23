@@ -4,11 +4,11 @@ class CfgPatches {
     class ADDON {
         author = AUTHOR;
         authors[] = {"Andx"};
-        url = CSTRING(url);
+        url = ECSTRING(main,url);
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "cba_main"
+            "ttt_event_main"
         };
         units[] = {};
         weapons[] = {};
@@ -16,4 +16,5 @@ class CfgPatches {
     };
 };
 
-#include "CfgSettings.hpp"
+#include "CfgEventHandlers.hpp"
+#include "CfgMainMenuSpotlight.hpp"

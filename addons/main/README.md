@@ -1,4 +1,4 @@
-MOD_PREFIX_main
+ttt_event_main
 ===================
 
-Main Addon for MOD_TITLE
+Main Addon for TTT_Event
