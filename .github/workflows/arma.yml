@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout the source code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
     - name: Validate Config
       run: python tools/config_style_checker.py
     - name: Check for BOM
