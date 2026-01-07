@@ -7,11 +7,10 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"ttt_event_common", "acre_sys_gui"};
-        author = AUTHOR;
+        author = ECSTRING(main,TacticalTrainingTeam);
         authors[] = {"Andx"};
         url = ECSTRING(main,URL);
         VERSION_CONFIG;
-        skipWhenMissingDependencies = 1;
     };
 };
 
